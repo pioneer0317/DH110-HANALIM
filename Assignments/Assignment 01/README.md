@@ -3,6 +3,10 @@
 ### Hana Yerin Lim 
 
 ## Description
+I decided to explore the user experience side of LinkedIn and Facebook because they are some of the most used among younger generations (millennials and Gen-Z). Although LinkedIn and Facebook are some of the most popular websites used by billions of people, users might experience some discomforts using them. LinkedIn is perhaps the most well-known employment-oriented online platform that provides users to find employment, extend their networks, and learn new materials. I believe I use LinkedIn just as much as other people to seek opportunities, but I've recently been experiencing annoyance and difficulty using it. 
+
+User Demographics source: https://www.statista.com/statistics/273505/global-linkedin-age-group/
+https://sproutsocial.com/insights/facebook-stats-for-marketers/
 
 ## Severity Ratings in Heuristic Evaluation 
 Source: [Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
