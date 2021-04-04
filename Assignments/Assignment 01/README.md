@@ -22,8 +22,7 @@ https://www.linkedin.com/
 
 LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the platform is mainly used for professional networking and allows job seekers to post their CVs and employers to post jobs.
 
-![LinkedIn Website Screenshot](http://url/to/img.png)
-![LinkedIn Website Screenshot](/Pictures/linkedin_screenshot.PNG?raw=true "linkedin screenshot")
+![LinkedIn Website Screenshot](linkedin_screenshot.PNG)
 
 Overall Evaluation: **
 
@@ -49,8 +48,7 @@ https://www.facebook.com/
 Facebook is a popular global social networking service that is considered one of the Big Five companies in the U.S. Facebook has quite a lot of features but its main features are the Newsfeed where the user see contents from his Facebook friends and pages he follows; Messenger for messaging; Timeline where it shows the user's information and content posted or shared; the Wall, a space for the user's content; and Events where user can see events related to him or his Facebook friends like birthdays or social gatherings.
 
 
-![Facebook Website Screenshot](http://url/to/img.png)
-![Facebook Website Screenshot](/Pictures/linkedin_screenshot.PNG?raw=true "linkedin screenshot")
+![Facebook Website Screenshot](facebook_sc.png)
 
 Overall Evaluation: **
 
