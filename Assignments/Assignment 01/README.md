@@ -24,7 +24,7 @@ LinkedIn is an American business and employment-oriented online service that ope
 
 ![LinkedIn Website Screenshot](linkedin_screenshot.PNG)
 
-Overall Evaluation: **
+Overall Evaluation: The most critical problem with LinkedIn is the amount of error occuring more than half of the times when using the product. This bug needs to be fixed as soon as possible because the error is not because there is no content nor bad connection. Besides some of the strengths of LinkedIn's user experience, there are some of the minor problems that could be fixed with one being inflexible with withdrawing/undoing submitted aplications. Some of other competitive websites do have options to withdraw from the job position, which users might find it helpful with their decisions. Updates on application process would be very helpful as numbers of them are not shown. In addition to these major and minor points, more is discussed in the following table. 
 
 ### Heuristic Evaluation of LinkedIn 
 |Heuristic Description|Severity Rating|Heuristic Evaluation|Possible Solution for Ranks 2, 3|
@@ -47,10 +47,9 @@ https://www.facebook.com/
 
 Facebook is a popular global social networking service that is considered one of the Big Five companies in the U.S. Facebook has quite a lot of features but its main features are the Newsfeed where the user see contents from his Facebook friends and pages he follows; Messenger for messaging; Timeline where it shows the user's information and content posted or shared; the Wall, a space for the user's content; and Events where user can see events related to him or his Facebook friends like birthdays or social gatherings.
 
-
 ![Facebook Website Screenshot](facebook_sc.png)
 
-Overall Evaluation: **
+Overall Evaluation: Some of the problems with Facebook's usability design is repetition, consistency, and recognition. Some tabs exist in several places from multiple navigation bars that ends up navigating to the same page. (ex: "group" can be found on the left navigation bar, top navigation bar, and a plus dropdown menu on the topright corner.) 
 
 ### Heuristic Evaluation of Facebook  
 |Heuristic Description|Severity Rating|Heuristic Evaluation|Possible Solution for Ranks 2, 3|
