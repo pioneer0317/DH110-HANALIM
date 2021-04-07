@@ -1,4 +1,4 @@
-# Making better networking and socializing platforms: Heuristic Evaluation of LinkedIn and Facebook 
+# Making Better Networking and Socializing Platforms: Heuristic Evaluation of LinkedIn and Facebook 
 ## Spring 2021 DH 110 - User Experience and Design 
 ### Hana Yerin Lim 
 
