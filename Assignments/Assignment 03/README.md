@@ -2,24 +2,24 @@
 ## Step 01: Specify the main design challenge 
 
 **What is the main activity your project would support the users’ needs?**
-There are many different resources the users can use to apply for jobs, such as LinkedIn, Indeed, Handshake, specific company websites, etc. This project will support the users with managing and tracking their submitted applications by uniting from one app/platform and getting notified when the users haven't heard back from the company after a month with the possibility of sending out a follow-up email. 
+>There are many different resources the users can use to apply for jobs, such as LinkedIn, Indeed, Handshake, specific company websites, etc. This project will support the users with managing and tracking their submitted applications by uniting from one app/platform and getting notified when the users haven't heard back from the company after a month with the possibility of sending out a follow-up email. 
 
 **What is the basic need involved for that activity?** 
-This activity fulfills the user's efficiency with job hunting as they can be overwhelmed and confused with loads of job applications and the number of different websites they use. 
+>This activity fulfills the user's efficiency with job hunting as they can be overwhelmed and confused with loads of job applications and the number of different websites they use. 
 This project aims to organize and save the users time to be more productive and effective with their job application process. 
 
 **What is(are) the traditional/current solution(s) to satisfy the needs?** 
-The current typical solution to satisfy this need is an individual's google sheet to update by him/herself. I haven't found a specific app/platform that functions as a hub. I am aware that most people rely on each career website that saves the company information that the user's applied, but this could be a hassle as it is hard to keep up to date when there are different websites used. 
+>The current typical solution to satisfy this need is an individual's google sheet to update by him/herself. I haven't found a specific app/platform that functions as a hub. I am aware that most people rely on each career website that saves the company information that the user's applied, but this could be a hassle as it is hard to keep up to date when there are different websites used. 
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
-There are a few limitations to point out. Users can sometimes be forgetful to update their application status on google sheet and don't remember through which platform they applied to a specific place. This can cause spending a lot more than the necessary time. Creating an app/platform that becomes a hub that manages and tracks the applications automatically can be very helpful and comfortable for the users. They would have a positive experience using this app when the app sorts and organizes everything for them. 
+>There are a few limitations to point out. Users can sometimes be forgetful to update their application status on google sheet and don't remember through which platform they applied to a specific place. This can cause spending a lot more than the necessary time. Creating an app/platform that becomes a hub that manages and tracks the applications automatically can be very helpful and comfortable for the users. They would have a positive experience using this app when the app sorts and organizes everything for them. 
 
 ## Step 02: Target users 
 
 **What are the characteristics of users? (ex. demographics, preference, expertise)**
-* Demographics: All the job seekers (all age range but with a very few age groups less than 18-year-old)
-* Preferences: Users desire to land successfully into a job market. They are determined to be as much efficient as possible with their job process. 
-* Expertise: No particular level of expertise is needed to use this application. 
+>* Demographics: All the job seekers (all age range but with a very few age groups less than 18-year-old)
+>* Preferences: Users desire to land successfully into a job market. They are determined to be as much efficient as possible with their job process. 
+>* Expertise: No particular level of expertise is needed to use this application. 
 
 **Where would the users do that activity? (i.e., context of use)**
  
