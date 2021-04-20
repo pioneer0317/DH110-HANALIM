@@ -53,7 +53,7 @@ This project aims to organize and save the users time to be more productive and 
 interview script can be found [here](Interview_Script.pdf)
 
 ## Step 05: Conduct the research
-The recording of the interview can be found [here]("https://drive.google.com/file/d/1QcRcb32k_MZJPRig5qN9PeuScWuUFTdi/view?usp=sharing")
+The recording of the interview can be found [here](https://drive.google.com/file/d/1QcRcb32k_MZJPRig5qN9PeuScWuUFTdi/view?usp=sharing)
 
 The transcript of the interview can be found [here](zoom_0_otter.ai.txt)
 
