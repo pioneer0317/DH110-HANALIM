@@ -48,7 +48,7 @@ This project aims to organize and save the users time to be more productive and 
 > More detailed information can be found from Step 04. 
 
 ## Step 04: Interview/observation guide
-interview script can be found [here] 
+interview script can be found [here](Interview Script (1).pdf)
 
 ## Step 05: Conduct the research
 The recording of the interview can be found [here]("https://drive.google.com/file/d/1QcRcb32k_MZJPRig5qN9PeuScWuUFTdi/view?usp=sharing")
@@ -73,6 +73,7 @@ The interview note can be found [here]
 6. Can you rate the importance of a job application like recording process to you on a scale one to ten? 
 > (30:01) ... However, I have had friends who when they graduated, they applied to like 1000s of places because they need to find a job and they just got their degree, and they're ready to get going. And I'm sure for them having a system other than just an Excel spreadsheet or word spreadsheet or Word document, it would be a lot better for that. Right? Or a lot better for someone who's applying to to real companies and jobs
 
+The contextual inquiry process was a new experience for me, and I learned a lot from this exercise. It was a great opportunity to observe the same questions from other person's perspective. I realized even the basic questions we saw them through different lenses. 
 
+My interviewee suggested a brilliant idea about the filter features from the job boards. His suggestion was to have a "student-friendly" option, which will allow students to not waste time on seeing the jobs with "weekday or overnight" descriptions. The interviewee also claimed that the current students seeking internships, recent grads, and any job seekers seeking full-time opportunities would find the idea of having a "job tracking" system extremely helpful. In this way, they wouldn't have to manually put down the information of the companies they've applied to. 
 
-His friend: Internship for them having a system would be extremely helpful 
