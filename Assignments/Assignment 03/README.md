@@ -28,8 +28,23 @@ This project aims to organize and save the users time to be more productive and 
 
 ## Step 03: Pick research methods (or a combination of methods)
 
-Interview with direct / passive / participatory observation.
-Or something you learned on your own (refer to the field guideline by IDEO)
+> To get a better idea of creating a platform tailored to users', I conducted an interview and participatory observation research with a friend who is part of the targeted demographic. Due to the current situation, this session was conducted via Zoom. 
+
+> The interview and participatory observation research was held in the following order: 
+
+> 1. Background questions 
+> To conduct an efficient interview, I asked some background questions to apply this knowledge to later questions. 
+> 2. General question/contextual inquiry 
+> * I asked general questions about the job application and recording process. 
+> 3. Participatory observation/user activity 
+> * I let the interviewer show me how he would usually perform a job search and job submission. The user thoroughly walked through his thought process. 
+> 4. Problems 
+> * I asked him several questions about any problems or inconvenience with the current methods of maintaining a list of places he has applied to and the job searching process. 
+> 5. other questions 
+> * I asked other questions that I've not asked in the previous questions. I asked him, "do you prefer to have this function" type of questions to get a clearer idea of what kind of features the users might want on the new platform. 
+> 6. closing questions 
+>
+> More detailed information can be found from Step 04. 
 
 ## Step 04: Interview/observation guide
 > * interview script can be found [here]()
