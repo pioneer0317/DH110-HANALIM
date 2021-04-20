@@ -33,7 +33,7 @@ This project aims to organize and save the users time to be more productive and 
 > The interview and participatory observation research was held in the following order: 
 
 > 1. Background questions 
-> To conduct an efficient interview, I asked some background questions to apply this knowledge to later questions. 
+> * To conduct an efficient interview, I asked some background questions to apply this knowledge to later questions. 
 > 2. General question/contextual inquiry 
 > * I asked general questions about the job application and recording process. 
 > 3. Participatory observation/user activity 
@@ -47,20 +47,17 @@ This project aims to organize and save the users time to be more productive and 
 > More detailed information can be found from Step 04. 
 
 ## Step 04: Interview/observation guide
-> * interview script can be found [here]()
-
-Decide where to visit
-Decide what activities to observe/ what to ask to do
-Decide how to interact with the users 
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users)
+interview script can be found [here] 
 
 ## Step 05: Conduct the research
-Visit the place
-Meet/Observe the user(s)
-Collect the data (record, pictures, answered_survey)
+The recording of the interview can be found [here]("https://drive.google.com/file/d/1QcRcb32k_MZJPRig5qN9PeuScWuUFTdi/view?usp=sharing")
+The transcript of the interview can be found [here] (zoom_0_otter.ai.txt)
+The interview note can be found [here]
 
 ## Step 06: Reflection
+Insights from the data: 
+
+
 In github (sub)repository assignment4, create one document (either README.md or .html)
 Describe your project design challenge + target user (step1+2)
 Describe your research methods and plan (step3)
