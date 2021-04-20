@@ -52,11 +52,13 @@ interview script can be found [here]
 
 ## Step 05: Conduct the research
 The recording of the interview can be found [here]("https://drive.google.com/file/d/1QcRcb32k_MZJPRig5qN9PeuScWuUFTdi/view?usp=sharing")
+
 The transcript of the interview can be found [here](zoom_0_otter.ai.txt)
+
 The interview note can be found [here]
 
 ## Step 06: Reflection
-Interesting and insightful quotes from the interviewee: 
+**Interesting and insightful quotes from the interviewee: **
 
 1. Do you believe the way you keep track of the places you've applied to is efficient?
 > (5:41) I'll more likely use Microsoft Word or Google Google Docs or something like that, because it's just easier to use and navigate as opposed to excel, Excel has a little bit of a learning curve.
@@ -72,3 +74,5 @@ Interesting and insightful quotes from the interviewee:
 > (30:01) ... However, I have had friends who when they graduated, they applied to like 1000s of places because they need to find a job and they just got their degree, and they're ready to get going. And I'm sure for them having a system other than just an Excel spreadsheet or word spreadsheet or Word document, it would be a lot better for that. Right? Or a lot better for someone who's applying to to real companies and jobs
 
 
+
+His friend: Internship for them having a system would be extremely helpful 
