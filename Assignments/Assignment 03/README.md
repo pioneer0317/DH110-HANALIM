@@ -1,3 +1,5 @@
+# Assignment 3: Contextual Inquiry 
+## DH 110 Hana Yerin Lim 
 
 ## Step 01: Specify the main design challenge 
 
