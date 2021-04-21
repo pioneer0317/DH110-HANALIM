@@ -7,8 +7,7 @@
 > There are many different resources the users can use to apply for jobs, such as LinkedIn, Indeed, Handshake, specific company websites, etc. This project will support the users with managing and tracking their submitted applications by uniting from one app/platform and getting notified when the users haven't heard back from the company after a month with the possibility of sending out a follow-up email. 
 
 **What is the basic need involved for that activity?** 
-> This activity fulfills the user's efficiency with job hunting as they can be overwhelmed and confused with loads of job applications and the number of different websites they use. 
-This project aims to organize and save the users time to be more productive and effective with their job application process. 
+> This activity fulfills the user's efficiency with job hunting as they can be overwhelmed and confused with loads of job applications and the number of different websites they use. This project aims to organize and save the users time to be more productive and effective with their job application process. The goal of this project is to create a system that automatically organizes, manages, and keep track of the companies record. 
 
 **What is(are) the traditional/current solution(s) to satisfy the needs?** 
 > The current typical solution to satisfy this need is an individual's google sheet to update by him/herself. I haven't found a specific app/platform that functions as a hub. I am aware that most people rely on each career website that saves the company information that the user's applied, but this could be a hassle as it is hard to keep up to date when there are different websites used. 
