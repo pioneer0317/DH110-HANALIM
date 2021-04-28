@@ -1,11 +1,14 @@
+# Assignment 04: Persona + Scenario 
+## DH 110 Hana Yerin Lim
 
+## Purpose of UX storytelling 
+The purpose of UX storytelling is to get the opportunity to understand the user's emotion, behavior, thought process, and actions. This practice allows the developers to proceed with their designing process without the bias. When creating different personas, the designers can figure out the gain and the pain points, and find a way to make a product that is tailored to user's need. It is a great way to observe the situations and scenarios from their perspective, and get a better sense of how users act in certain types of conflicts and what they feel when they use the product. 
 
-## Design Features (draft) 
-1. The list of track records of the companies 
-2. Follow-up Notification if the company hasn't responded after a month so that the user can choose different possible selection (cold email/discard (cross out from the list)) 
-3. Advanced filters - platform that unites all the job board websites' job postings into this app/website so the user can get the latest and earliest possible updates + student filter
+## Design Features 
+1. Advanced filters - More specified filters that includes more options for location (ex: west, south-west, east, etc), students (position for student/non-student), title and description (flexible and more advanced ways of including certain words). Platform that unites all the job board websites' job postings into this app/website so the user can get the latest and earliest possible updates
+2. Personalized record - The automated list of the companies users applied organized and managed from the system; users can always come back to this list and refresh their memories on job descriptions or the date they applied 
+3. Follow-up Notification on application: if the company hasn't responded after a month, users receive a notification and can choose different possible options: either cold email the companies or discard that job application (cross out from the list). 
 
-# 1. 
 ## Persona 1 - Marcus Dalton
 ![Marcus Profile](Marcus%20Profile.png)
 
@@ -22,7 +25,6 @@
 ### Marcus' Journey Map 
 ![Marcus JM](Marcus%20JM.png)
 
-# 2. 
 ## Persona 2 - Theodore McCarthy 
 ![Theo profile](Theodore%20profile.png) 
 
@@ -39,7 +41,6 @@
 ### Theodore's Journey Map 
 ![Theo JM](Theodore%20JM.png)
 
-# 3. 
 ## Persona 3 - Cara Pham
 ![Cara Profile](Cara%20profile.png)
 
@@ -48,10 +49,10 @@
 
 ### Cara's Scenario
 **Why?** 
-* Cara is a 2nd-year graphic design student at the University of San Francisco. She works hard to improve her design skills but hopes to get better at them by applying them to hands-on experience. Cara came to the US three years ago, so her English is not that fluent. She is eager to stay in the US for the rest of her life, so she hopes to get used to the new culture as soon as possible. Cara hopes to be fluent in Business English by the time she finds a full-time job. For these and many other reasons, she applies to many places. However, she oftentimes forgets to update the list of the companies that she applied to. She just received a reply from one of the companies, but she doesn't remember when and through which platform she used to apply. She blames herself that this cannot happen again, so she tries to think of a way to solve the problem and increase efficiency. 
+* Cara is a 2nd-year graphic design student at the University of San Francisco. She works hard to improve her design skills but hopes to get better at them by applying them to hands-on experience. Cara came to the US three years ago, so her English is not that fluent. She is eager to stay in the US for the rest of her life, so she hopes to get used to the new culture as soon as possible. Cara hopes to be fluent in Business English by the time she finds a full-time job. In response to this, she studies hard and listens to a lot of podcasts. She also tries to form an informational interview with the professionals and practice sending cold-emails. For these and many other reasons, she applies to many places. However, she oftentimes forgets to update the list of the companies that she applied to. She just received a reply from one of the companies, but she doesn't remember when and through which platform she used to apply. She blames herself that this cannot happen again, so she tries to think of a way to solve the problem and increase efficiency. 
 
 **How?** 
-* 
+* Because of her trait, Cara was contemplating the inefficiency of the job application process without reaching out for help. One day, Cara's friend noticed Cara's unusual face, so she asks what is bothering Cara so much. She tells her the whole story, and her friend suggests to her the new platform called *Search* and Cara looks into it at night. Cara finds out she doesn't need to do extensive research on google anymore since *Search* functions as a hub. Using advanced filters, she applies to a couple of places that night. She is so happy to see this company information is recorded on the list, all organized with the necessary information she wants. She doesn't have to get frustrated anymore with the missing record and is very satisfied with the automated list. A couple of weeks later, she receives a notification that one of the companies would ilke to move forward with her application. She also receives a notification with the companies that hasn't replied with any updates, so she takes this advantage to send them a cold-email. She is satisfied with the *Search* features, especially the recording and notification systems, and continues to actively utlize *Search*.
 
 ### Cara's Journey Map 
 ![Cara JM](Cara%20JM.png)
