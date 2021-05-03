@@ -3,7 +3,8 @@
 
 ## Description of the Project 
 **Purpose:**
- 
+
+Rather than focusing on the aesthetic side of the product, the purpose of the low-fidelity prototype is to test the functionality and the flow of the features and to check if the features are tailored to the user's needs. 
 
 **User research + Persona + Three features:**
 
