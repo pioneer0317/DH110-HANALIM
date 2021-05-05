@@ -24,24 +24,28 @@ The low-fidelity prototype supports the following tasks:
 5. Change the follow-up notification from unresponsive companies
 
 ## Wireframe (Version 1) 
-https://www.figma.com/file/SkSVx65iE9C2Kk4C1ZTLTG/DH-110-Wireframe-V1
+Please check out the link for more detail: https://www.figma.com/file/SkSVx65iE9C2Kk4C1ZTLTG/DH-110-Wireframe-V1
+![sc](wireframe_v1.PNG)
 
 ## Wireframe (Version 2) 
-https://www.figma.com/file/vf8OEB7OQl3N8Um9YIunGL/DH-110-wireframe-V2
+Please check out the link for more detail: https://www.figma.com/file/vf8OEB7OQl3N8Um9YIunGL/DH-110-wireframe-V2
+![sc](wireframe_v2.PNG)
 
 ## Wireflow (Version 1) 
-https://www.figma.com/file/3CAInlTR5tkgpOg2rRfaUm/DH-110-Wireflow-V1
+Please check out the link for more detail: https://www.figma.com/file/3CAInlTR5tkgpOg2rRfaUm/DH-110-Wireflow-V1
+![sc](WF_V1.PNG)
 
 ## Wireflow Test
 Tester's comments, suggestions, incommodity, and compliments:
-https://www.figma.com/file/xdcjuguUp3ypbkrh4BEZxb/DH-110-Wireflow-V1-comment
+Please check out the link for more detail: https://www.figma.com/file/xdcjuguUp3ypbkrh4BEZxb/DH-110-Wireflow-V1-comment
 Must press c from the keyboard to view the comments 
-![sc]()
+![sc](WF_comment.PNG)
 
-Tester's confusion/unexpected interaction/successful factors: 
+Details on tester's confusion/unexpected interaction/successful factors: [PDF file](Wireflow_Test_walk-through.pdf)
 
 ## Revised Wireflow 
-https://www.figma.com/file/wQAdNbKQYL7KevhPPozRDm/DH-110-Wireflow-V2?node-id=0%3A1
+Please check out the link for more detail: https://www.figma.com/file/wQAdNbKQYL7KevhPPozRDm/DH-110-Wireflow-V2?node-id=0%3A1
+![sc](WF_revised.PNG)
 
 ## Reflection
 
