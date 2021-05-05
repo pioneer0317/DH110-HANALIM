@@ -62,7 +62,7 @@ Personal note on the tester's confusion or unexpected interaction:
 > Once again, she tried to go to the job tracker page instead of settings, so she suggested to have the ability to control also on this job tracker page. 
 
 ## Revised Wireflow 
-Please check out the link for more detail: https://www.figma.com/file/wQAdNbKQYL7KevhPPozRDm/DH-110-Wireflow-V2?node-id=0%3A1
+Please check out the link for more detail: https://www.figma.com/file/wQAdNbKQYL7KevhPPozRDm/DH-110---Wireflow-V2
 ![sc](WF_revised.PNG)
 
 ## Reflection
