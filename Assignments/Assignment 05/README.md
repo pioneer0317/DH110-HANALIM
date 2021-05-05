@@ -48,6 +48,7 @@ Please check out the link for more detail: https://www.figma.com/file/xdcjuguUp3
 Details on tester's confusion/unexpected interaction/successful factors: [PDF file](Wireflow_Test_walk-through.pdf)
 
 Tester demographic: Asian, age within 60-70, not tech-savvy (user persona similar to Theodore McCarthy) 
+
 Personal note on the tester's confusion or unexpected interaction: 
 1. Filter location, keyword, and student-friendly to search a job
 > Unexpectedly, my tester ran into a problem searching for a job using the filter function. She instead proposed an unexpected interaction and suggestion. She said having a filter function in the middle is very nice to have, but from there, it was uncomfortable for her to complete the search. Instead, she expressed that she wanted to see a separate apply or submit button directly under the filter section so that it is easier for at least the older age groups to complete the task. 
