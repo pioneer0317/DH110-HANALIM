@@ -30,7 +30,7 @@ Participant 1
 > "It seems like the usability of the product is well made, but something seems to be off. I'm not quite sure what it is, but I'm thinking it may be the combination of the color. The design feels outdated and old."
 
 Participant 2
-> "fresh, warming, new challenge because I haven't seen this color theme in other platform before, decent are the adjectives I can think of by looking at your product"  
+> "fresh, warming, innovative - new challenge because I haven't seen this color theme in other platform before, decent are the adjectives I can think of by looking at your product"  
 > "One of the suggestions I can make is to make the default fontsize a bit smaller (because there will be an option to adjust the font in the settings). If you have time, try different types of fonts? It's not too bad right now but I think there could be a better font option."
 
 Participant 3
