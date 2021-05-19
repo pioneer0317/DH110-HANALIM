@@ -78,7 +78,7 @@ Just like previously mentioned, after getting suggestions from different partici
 3. Make sure the notification is on for "Update on Job Tracker" and "Follow-up on unresponsive application". 
 
 ## Interactive Prototype 
-Prototype link here: [](https://www.figma.com/proto/n8RUJGab3htLzlLEhvTA3x/Untitled?node-id=75%3A0&scaling=min-zoom&page-id=0%3A1)
+Prototype link [here](https://www.figma.com/proto/n8RUJGab3htLzlLEhvTA3x/Untitled?node-id=75%3A0&scaling=min-zoom&page-id=0%3A1)
 
 **Task 1:** 
 ![](task1.PNG) 
@@ -89,7 +89,7 @@ https://www.figma.com/proto/AoDcE54NhtPMnF5PwQfd3Y/Untitled?node-id=1%3A879&scal
 https://www.figma.com/proto/FgvpG2V79ErYbrepida7t2/Untitled?node-id=1%3A3248&scaling=min-zoom&page-id=0%3A1
 
 **Task 3:**
-![](task3.PNG
+![](task3.PNG)
 https://www.figma.com/proto/dBjCPFlAtiLIbgBWhaG5Br/Untitled?node-id=1%3A3248&scaling=min-zoom&page-id=0%3A1
 
 ## Wireflow
