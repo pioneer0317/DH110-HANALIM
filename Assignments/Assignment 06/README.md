@@ -96,7 +96,19 @@ https://www.figma.com/proto/dBjCPFlAtiLIbgBWhaG5Br/Untitled?node-id=1%3A3248&sca
 ![](wireflow.PNG)
 
 ## Cognitive Walkthrough 
+Video recording can be found [here](https://drive.google.com/file/d/1VVawutvfa_ecXaTgJ3psAZU9HyMwkDWN/view?usp=sharing)
 
+*The tester didn't want the video/voice recording so it only captures the screen*
+
+**Task 1:** It took longer for her to find the "location" filter button, but other than that she had no problem reaching her goal.
+
+**Task 2:** She hesitated for a moment but she eventually found the job tracker page and confirmed that the information is automatically updated. 
+
+**Task 3:** She was able to reach the settings page and confirm that the notifications for "Update on Job Tracker" and "Follow-up on unresponsive application" are on. However, she kind of didn't understand the purpose of the switch on the settings page (difference between green and black buttons).
+
+**What she liked about this product:** She appreciated how I considered every age groups by having bigger and readable fonts and buttons. 
+
+**Possible improvements are discussed below** 
 
 ## Reflection 
-
+First of all, I made some changes to the wireframe based on the previous comments and suggestions from the impression test participants. The wire flow and prototype on my end went pretty smoothly. I had the same tester, Asian & age group of 60-70, from last time to perform the given task on the high-fidelity prototype. Watching her finish the task, I once again got a lot of insight from my tester from this exercise. What I noticed is that her response time was much longer than I expected, and it took longer for her to search the certain keywords. Based on this, what I can do differently next time is to think of a better design that could increase the reaction rate for older people. I also learned that I would need to create the "back" button for every page for certain people, especially the older age groups. Although I have the "back" button on the search result and the job description pages, I noticed that my tester wanted to go back and seemed to be hesitant to go back to the previous page. From my perspective, I thought having the bar menu on the button would be enough, but that was not the case for my tester and her age group. In the future, I will consider making adjustments to creating the back button on every page. Lastly, In terms of the switches, I can add a guide on how the switch work in the textbox. I learned that endless thoughts, care, and tests from the participants are required to make a good product.
