@@ -1,4 +1,4 @@
-# Assignment 06 - Interface Design Part 1
+# Assignment 06 + 07 - Interface Design Part 1 + Part 2
 ## DH 110 Hana Yerin Lim
 
 # Part 1
@@ -80,6 +80,7 @@ Just like previously mentioned, after getting suggestions from different partici
 ## Interactive Prototype 
 Prototype link [here](https://www.figma.com/proto/n8RUJGab3htLzlLEhvTA3x/Untitled?node-id=75%3A0&scaling=min-zoom&page-id=0%3A1)
 
+### Separate Prototypes: (optional|additional)
 **Task 1:** 
 ![](task1.PNG) 
 https://www.figma.com/proto/AoDcE54NhtPMnF5PwQfd3Y/Untitled?node-id=1%3A879&scaling=min-zoom&page-id=0%3A1
@@ -94,6 +95,7 @@ https://www.figma.com/proto/dBjCPFlAtiLIbgBWhaG5Br/Untitled?node-id=1%3A3248&sca
 
 ## Wireflow
 ![](wireflow.PNG)
+https://www.figma.com/file/n8RUJGab3htLzlLEhvTA3x/Prototype?node-id=0%3A1
 
 ## Cognitive Walkthrough 
 Video recording can be found [here](https://drive.google.com/file/d/1VVawutvfa_ecXaTgJ3psAZU9HyMwkDWN/view?usp=sharing)
