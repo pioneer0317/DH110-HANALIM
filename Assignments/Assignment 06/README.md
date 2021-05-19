@@ -1,6 +1,7 @@
 # Assignment 06 - Interface Design Part 1
 ## DH 110 Hana Yerin Lim
 
+# Part 1
 ## Description 
 The Seekr product is to provide more efficient ways to apply and keep track of their job applications by automatically generating the list of the job applications (job tracker) and uniting all the job postings that are from different websites. The purpose of a high-fidelity prototype is to finalize the visual design, improve the flow, and showcase the final design. 
 
@@ -69,3 +70,33 @@ After talking to various people about my initial high-fidelity prototype, the mo
 
 After applying many different types of fonts, I thought the font "Oxygen" matched the most with my theme. This font was the one that wasn't messy but not too stiff at the same time. I also decided my color scheme to be green, because I wanted to convey relaxed and comforting feeling to the users, who are the job seekers with the wide age groups. Both the font and the colors that I chose convey the feeling of comfort, and that is what I wanted to provide to all the job seekers who most of them would be stressed and anxious.
 Just like previously mentioned, after getting suggestions from different participants, I decided to explore more font options to improve my design and will apply the suggestions to my next draft of high-fidelity prototype. 
+
+# Part 2
+##  Tasks 
+1. Use the location filter to find the jobs that are located in Northeast and Chicago, IL. Then apply to the *Editor* position at Wolfram. (if you are on the job description page, your task is done.) 
+2. After applying, check if the information is automatically listed in the job tracker. 
+3. Make sure the notification is on for "Update on Job Tracker" and "Follow-up on unresponsive application". 
+
+## Interactive Prototype 
+Prototype link here: [](https://www.figma.com/proto/n8RUJGab3htLzlLEhvTA3x/Untitled?node-id=75%3A0&scaling=min-zoom&page-id=0%3A1)
+
+**Task 1:** 
+![](task1.PNG) 
+https://www.figma.com/proto/AoDcE54NhtPMnF5PwQfd3Y/Untitled?node-id=1%3A879&scaling=min-zoom&page-id=0%3A1
+
+**Task 2:**
+![](task2.PNG)
+https://www.figma.com/proto/FgvpG2V79ErYbrepida7t2/Untitled?node-id=1%3A3248&scaling=min-zoom&page-id=0%3A1
+
+**Task 3:**
+![](task3.PNG
+https://www.figma.com/proto/dBjCPFlAtiLIbgBWhaG5Br/Untitled?node-id=1%3A3248&scaling=min-zoom&page-id=0%3A1
+
+## Wireflow
+![](wireflow.PNG)
+
+## Cognitive Walkthrough 
+
+
+## Reflection 
+
