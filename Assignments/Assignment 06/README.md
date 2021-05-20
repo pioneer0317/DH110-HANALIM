@@ -110,7 +110,17 @@ Video recording can be found [here](https://drive.google.com/file/d/1VVawutvfa_e
 
 **What she liked about this product:** She appreciated how I considered every age groups by having bigger and readable fonts and buttons. 
 
+### Cognitive Walkthrough done in class:
+Some feedbacks and suggestions on improvement: 
+
+> Colors are suitable and overall easy to read. 
+> For the selected filter, the fonts could be in bold to distinguish
+> Have different logos for apply, saved, and job tracker 
+> fix the navigation tab still 
+
 **Possible improvements are discussed below** 
 
 ## Reflection 
-First of all, I made some changes to the wireframe based on the previous comments and suggestions from the impression test participants. The wire flow and prototype on my end went pretty smoothly. I had the same tester, Asian & age group of 60-70, from last time to perform the given task on the high-fidelity prototype. Watching her finish the task, I once again got a lot of insight from my tester from this exercise. What I noticed is that her response time was much longer than I expected, and it took longer for her to search the certain keywords. Based on this, what I can do differently next time is to think of a better design that could increase the reaction rate for older people. I also learned that I would need to create the "back" button for every page for certain people, especially the older age groups. Although I have the "back" button on the search result and the job description pages, I noticed that my tester wanted to go back and seemed to be hesitant to go back to the previous page. From my perspective, I thought having the bar menu on the button would be enough, but that was not the case for my tester and her age group. In the future, I will consider making adjustments to creating the back button on every page. Lastly, In terms of the switches, I can add a guide on how the switch work in the textbox. I learned that endless thoughts, care, and tests from the participants are required to make a good product.
+First of all, I made some changes to the wireframe based on the previous comments and suggestions from the impression test participants. The wire flow and prototype on my end went pretty smoothly. I had the same tester, Asian & age group of 60-70, from last time to perform the given task on the high-fidelity prototype. Watching her finish the task, I once again got a lot of insight from my tester from this exercise. What I noticed is that her response time was much longer than I expected, and it took longer for her to search the certain keywords. Based on this, what I can do differently next time is to think of a better design that could increase the reaction rate for older people. I also learned that I would need to create the "back" button for every page for certain people, especially the older age groups. Although I have the "back" button on the search result and the job description pages, I noticed that my tester wanted to go back and seemed to be hesitant to go back to the previous page. From my perspective, I thought having the bar menu on the button would be enough, but that was not the case for my tester and her age group. In the future, I will consider making adjustments to creating the back button on every page. Lastly, In terms of the switches, I can add a guide on how the switch work in the textbox.
+
+I also did the cognitive walkthrough with the group of 4 in class, and it was very helpful to get great suggestions from my fellow classmates, who are knowledgeable with the UX design and research. I learned that endless thoughts, care, and tests from the participants are required to make a good product.
