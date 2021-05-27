@@ -15,7 +15,27 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 [>> Read more on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
 (link the original heuristics uid from nn and severity ratings) 
 
-![LinkedIn Website Screenshot](linkedin_screenshot.PNG)
+image:
+
+
+<table>
+<tr>
+  <td><img height = "300px" width = "300px" scr = "link"> </td>
+ 
+  <td>
+![LinkedIn Website Screenshot](../Assignment 01/linkedin_screenshot.PNG)
+  </td>
+  </tr>
+</table>
+
+
+video: 
+
+<iframe src="https://drive.google.com/file/d/1fOssZoGpLwAStUdFeNEblGfDfpbNXsKm/preview" width="640" height="480"></iframe>
+
+
+prototype: 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3CAInlTR5tkgpOg2rRfaUm%2FDH-110-Wireflow-V1%3Fnode-id%3D55%253A0%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
 
 
 ### Competitor analysis: Usability Testing 
