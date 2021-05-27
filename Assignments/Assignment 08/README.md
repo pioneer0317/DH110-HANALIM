@@ -2,7 +2,8 @@
 ## DH 110 project by Hana Yerin Lim
 
 ### Introduction
-What is the project about? The motivation of the project and possible contribution.
+I decided to explore the user experience side of LinkedIn and Facebook because they are some of the most used among younger generations (millennials and Gen-Z). Although LinkedIn and Facebook are some of the most popular websites used by billions of people, users might experience some discomforts using them. LinkedIn is perhaps the most well-known employment-oriented online platform that provides users to find employment, extend their networks, and learn new materials. I believe I use LinkedIn just as much as other people to seek opportunities, but I've recently been experiencing inconvenience using it. There might be no major problem with the Facebook design since everyone just accepts the change and uses it on the daily basis, users might feel some components are cluttered and messy with overloading pictures and navigation tools. I chose these sites because I think there is a relationship bewteen these two websites as people can communicate and network. I am hoping to create a networking platform that the users can have a better experience using these popular networking websites. With some possible improvements on some of the issues, these two websites could improve user satisfaction.
+
 ####### [>> Read more on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
 
 ### Design statement: 
@@ -13,6 +14,9 @@ What is the issue and Why do you think it is important to resolve that issue by 
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 [>> Read more on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
 (link the original heuristics uid from nn and severity ratings) 
+
+![LinkedIn Website Screenshot](linkedin_screenshot.PNG)
+
 
 ### Competitor analysis: Usability Testing 
 
