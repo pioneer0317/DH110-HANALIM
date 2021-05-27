@@ -1,20 +1,47 @@
-## Project title + Your name
-### Introduction: a brief information about the project. 
+# Seekr: Easier Job Searching and Job Tracker App 
+## DH 110 project by Hana Yerin Lim
+
+### Introduction
 What is the project about? The motivation of the project and possible contribution.
-### Clear design statement: 
+####### [>> Read more on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
+
+### Design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
-### Competitor analysis [assignment01 & 02]:
+[>> Read more on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
+
+### Competitor analysis: Heuristic Evaluation
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
-### User research [contextual inquiry, assignment04]:
+[>> Read more on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
+(link the original heuristics uid from nn and severity ratings) 
+
+### Competitor analysis: Usability Testing 
+
+[>> Read more on Assignment 02](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2002)
+
+### User research [contextual inquiry]:
 Summary and link to your assignment folder
-### UX storytelling [persona+scenario, assignment05]
+
+[>> Read more on Assignment 03](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2003)
+
+### UX storytelling 
 Summary and link to your assignment folder
-### Wireframe and graphic design element variation [assignment06 + part of 07]
-### Low-fidelity prototype (wireflow, assignment06)
+[>> Read more on Assignment 04](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2004)
+(add picture)
+
+### Wireframe and graphic design element variation
+
+
+### Low-fidelity prototype 
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
-### High-fidelity prototype (functional/interactive prototype, assignment08)
+[>> Read more on Assignment 05](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2005)
+
+### High-fidelity prototype (functional/interactive prototype)
 Summary statement and link to or an embedded prototype
+[>> Read more on Assignment 06](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2006)
+
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
 ### Pitch video 
-### Conclusion: what did you learn throughout the process?
+
+### Conclusion
