@@ -15,8 +15,6 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 [>> Read more on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
 (link the original heuristics uid from nn and severity ratings) 
 
-image:
-
 
 <table>
 <tr>
