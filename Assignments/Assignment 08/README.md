@@ -2,46 +2,33 @@
 ## DH 110 project by Hana Yerin Lim
 
 ### Introduction
-I decided to explore the user experience side of LinkedIn and Facebook because they are some of the most used among younger generations (millennials and Gen-Z). Although LinkedIn and Facebook are some of the most popular websites used by billions of people, users might experience some discomforts using them. LinkedIn is perhaps the most well-known employment-oriented online platform that provides users to find employment, extend their networks, and learn new materials. I believe I use LinkedIn just as much as other people to seek opportunities, but I've recently been experiencing inconvenience using it. There might be no major problem with the Facebook design since everyone just accepts the change and uses it on the daily basis, users might feel some components are cluttered and messy with overloading pictures and navigation tools. I chose these sites because I think there is a relationship bewteen these two websites as people can communicate and network. I am hoping to create a networking platform that the users can have a better experience using these popular networking websites. With some possible improvements on some of the issues, these two websites could improve user satisfaction.
+This project fulfills the user's efficiency with job hunting as they can be overwhelmed and confused with loads of job applications and the number of different websites they use. This project aims to organize and save the users time to be more productive and effective with their job application process. The goal of this project is to create a system that automatically organizes, manages, and keep track of the companies record. With some possible improvements on some of the issues, this new app/platform that can satisfy the user's needs.
 
-####### [>> Read more on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
+### Design statement
+There are many different resources the users can use to apply for jobs, such as LinkedIn, Indeed, Handshake, specific company websites, etc. Although thousands of people use these websites to job hunt, users might experience some discomforts using them. LinkedIn is perhaps the most well-known employment-oriented online platform that provides users to find employment, extend their networks, and learn new materials. I believe I use LinkedIn just as much as other people to seek opportunities, but I've recently been experiencing inconvenience using it. One of the biggest issue with specifically LinkedIn is too frequent error, busy and maximalist design, and user control and freedom. Most of the job hunters are probably tired of reading and finding countless job descriptions and annoyed if they see repeated information from different websites. Efficiency, time saving, and easy navigation are the biggest need for job seekers. 
 
-### Design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
-[>> Read more on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
+### Competitor analysis: Heuristic Evaluation on LinkedIn
+https://www.linkedin.com/
 
-### Competitor analysis: Heuristic Evaluation
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
-[>> Read more on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
-(link the original heuristics uid from nn and severity ratings) 
+LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the platform is mainly used for professional networking and allows job seekers to post their CVs and employers to post jobs.
 
+![LinkedIn Website Screenshot](linkedin_screenshot.PNG)
 
-<table>
-<tr>
-  <td><img height = "300px" width = "300px" scr = "link"> </td>
- 
-  <td>
-![LinkedIn Website Screenshot](../Assignment 01/linkedin_screenshot.PNG)
-  </td>
-  </tr>
-</table>
+Overall Evaluation: Besides some of the strengths with the user experience components, The most critical problem with LinkedIn is the amount of error occurring more than half of the time when using the product. This bug needs to be fixed as soon as possible because no content nor a bad connection is the cause of the error. Another minor issue would be the inflexibility of withdrawing/undoing submitted applications. Some other competitive websites do have options to withdraw from the job position, which users might find helpful if they want to make any changes. Updates on the application process would be very helpful as the number of them is not shown. In addition to these major and minor points, more is discussed in the following table. [Severity Ratings in Heuristic Evaluation: Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/), [10 Heuristics for User Interface Design: Nielson Normal Group](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
+[>> Read more about Heuristic Evaluation on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
 
-video: 
+### Competitor analysis: Usability Testing on Facebook
+Similar to one of LinkedIn's networking features, Facebook is one of the most popular global social networking services that operates via websites and mobile apps. The platform is mainly used for entertainment/socializing purposes and allows users to connect with friends through chat, groups, events, posts, and tag features. The users can also get entertained through various games and videos. With the recently added feature, users can also actively buy or sell the products through the Facebook marketplace.
 
-<iframe src="https://drive.google.com/file/d/1fOssZoGpLwAStUdFeNEblGfDfpbNXsKm/preview" width="640" height="480"></iframe>
+After conducting a heuristic evaluation on the Facebook website, several problems and concerns are addressed. First, Facebook doesn't have a good recommendation algorithm. It doesn't have an interest tags list for users to choose from, and it is not easy to change the video recommendation preference. Second, the aesthetic design of the website is very cluttered and overwhelming. Third, Facebook consistency is lacking as its design frequently changes when it introduces a new feature. Lastly, the efficiency lacks, as there are redundant tab options on different navigation bars, which can increase the user's dissatisfaction.
 
+With these usability issues, I performed a usability test to find the factors that contribute to decreasing user satisfaction and the efficiency of using the website. The usability test intends to discover the flaws and improve on these points. The purpose of this session is to analyze user behavior for a potential improvement. In the test, a user is asked to complete a short series of tasks and describe his/her thought process.
 
-prototype: 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3CAInlTR5tkgpOg2rRfaUm%2FDH-110-Wireflow-V1%3Fnode-id%3D55%253A0%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
+[>> Read more about the Usability Testing on Assignment 02](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2002) 
 
-
-### Competitor analysis: Usability Testing 
-
-[>> Read more on Assignment 02](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2002)
-
-### User research [contextual inquiry]:
-Summary and link to your assignment folder
+### User research [contextual inquiry]
+To get a better idea of creating a platform tailored to user's needs, I conducted an interview and participatory observation research with a friend who is part of the targeted demographic. The purpose of this user research is to 
 
 [>> Read more on Assignment 03](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2003)
 
@@ -67,3 +54,25 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ### Pitch video 
 
 ### Conclusion
+
+
+
+
+<table>
+<tr>
+  <td><img height = "300px" width = "300px" scr = "link"> </td>
+ 
+  <td>
+![LinkedIn Website Screenshot](../Assignment 01/linkedin_screenshot.PNG)
+  </td>
+  </tr>
+</table>
+
+
+video: 
+
+<iframe src="https://drive.google.com/file/d/1fOssZoGpLwAStUdFeNEblGfDfpbNXsKm/preview" width="640" height="480"></iframe>
+
+
+prototype: 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3CAInlTR5tkgpOg2rRfaUm%2FDH-110-Wireflow-V1%3Fnode-id%3D55%253A0%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
