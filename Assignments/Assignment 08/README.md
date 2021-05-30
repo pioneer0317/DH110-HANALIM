@@ -30,6 +30,8 @@ With these usability issues, I performed a usability test to find the factors th
 ### User research [contextual inquiry]
 To get a better idea of creating a platform tailored to user's needs, I conducted an interview and participatory observation research with a friend who is part of the targeted demographic. The purpose of this user research is to ###################
 
+<iframe src="https://drive.google.com/file/d/1fOssZoGpLwAStUdFeNEblGfDfpbNXsKm/preview" width="640" height="480"></iframe>
+
 [>> Read more on Assignment 03](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2003)
 
 ### UX storytelling 
@@ -58,21 +60,64 @@ This is an example of Theodore's persona:
 [>> Read the rest of the personas on Assignment 04](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2004)
 
 ### Wireframe and graphic design element variation
+For the color scheme, I chose green to be the main theme since the color blue was already used by LinkedIn platform. Initially, I chose to work with this color theme, but after going through an impression test with couple people, I decided to pivot my decision to the color theme on the right. 
 
-[>> Read more on Assignment 06](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2006)
+<table>
+<tr>
+  <td>
+    <img height = "500px" width = "300px" scr = ![1](../Assignment 06/3.PNG)> 
+  </td>
+ 
+  <td>
+    <img height = "500px" width = "300px" scr = ![2](../Assignment 06/1.PNG)> 
+  </td>
+  </tr>
+</table>
+
+All of the variation passed the color-contrast ratio. 
+
+[>> Check out the rest of the variation on Assignment 06](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2006)
 
 ### Low-fidelity prototype 
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+After gathering insights from previous testings, these are the features that can mitigate the dissatisfaction and be geared towards a significant improvement.
+1. Advanced filters - More specified filters that include more options for location (ex: west, south-west, east, etc), students (position for student/non-student), title and description (flexible and more advanced ways of including certain words). A platform that unites all the job board websites' job postings into this app/website so the user can get the latest and earliest possible updates
+2. Personalized record - The automated list of the companies users applied organized and managed from the system; users can always come back to this list and refresh their memories on job descriptions or the date they applied
+3. Follow-up Notification on application: If the company hasn't responded after a month, users receive a notification and can choose different possible options: either cold email the companies or discard that job application (cross out from the list).
+
+For this exercise, I divided into 5 small steps to finish the low-fidelity prototype. 
+
+**Wireframe 1st draft** 
+![sc](WF_V1.PNG)
+
+**Wireframe 2nd draft** 
+![sc](wireframe_v2.PNG)
+
+**Wireflow 1st draft** 
+![sc](WF_V1.PNG)
+
+Based on the participant's feedback, I made the following changes on my final wireflow. 
+
+**Wireflow final draft** 
+![sc](WF_revised.PNG)
+
 [>> Read more on Assignment 05](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2005)
 
 ### High-fidelity prototype (functional/interactive prototype)
-Summary statement and link to or an embedded prototype
+Starting from the low-fidelity prototype, I first used the shapes to locate where each component should be. Then I input the details to make sure I get everything for the high-fidelity prototype. After finishing wireframing and prototyping from my end, I conducted a test with a participant to improve on my prototype and wireframe. This test helped me a lot in improving my design idea. Then I moved on to the high-fidelity prototype, in which I spent hours learning the appropriate buttons and components. I also got to learn more about colors as I did my wireframe.
+
+**Wireframe 1st draft** 
+![sc](screens.PNG)
+
+**Prototype** 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fn8RUJGab3htLzlLEhvTA3x%2FPrototype%3Fnode-id%3D75%253A0%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
+
 [>> Read more on Assignment 06](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2006)
 
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ### Pitch video 
+
 
 ### Conclusion
 
@@ -88,12 +133,3 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
   </td>
   </tr>
 </table>
-
-
-video: 
-
-<iframe src="https://drive.google.com/file/d/1fOssZoGpLwAStUdFeNEblGfDfpbNXsKm/preview" width="640" height="480"></iframe>
-
-
-prototype: 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3CAInlTR5tkgpOg2rRfaUm%2FDH-110-Wireflow-V1%3Fnode-id%3D55%253A0%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
