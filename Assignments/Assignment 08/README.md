@@ -39,6 +39,7 @@ Summary and link to your assignment folder
 
 ### Wireframe and graphic design element variation
 
+[>> Read more on Assignment 06](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2006)
 
 ### Low-fidelity prototype 
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
