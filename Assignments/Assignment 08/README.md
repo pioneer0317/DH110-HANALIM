@@ -14,7 +14,11 @@ LinkedIn is an American business and employment-oriented online service that ope
 
 ![LinkedIn Website Screenshot](linkedin_screenshot.PNG)
 
-Overall Evaluation: Besides some of the strengths with the user experience components, The most critical problem with LinkedIn is the amount of error occurring more than half of the time when using the product. This bug needs to be fixed as soon as possible because no content nor a bad connection is the cause of the error. Another minor issue would be the inflexibility of withdrawing/undoing submitted applications. Some other competitive websites do have options to withdraw from the job position, which users might find helpful if they want to make any changes. Updates on the application process would be very helpful as the number of them is not shown. In addition to these major and minor points, more is discussed in the following table. [Severity Ratings in Heuristic Evaluation: Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/), [10 Heuristics for User Interface Design: Nielson Normal Group](https://www.nngroup.com/articles/ten-usability-heuristics/)
+Overall Evaluation: Besides some of the strengths with the user experience components, The most critical problem with LinkedIn is the amount of error occurring more than half of the time when using the product. This bug needs to be fixed as soon as possible because no content nor a bad connection is the cause of the error. Another minor issue would be the inflexibility of withdrawing/undoing submitted applications. Some other competitive websites do have options to withdraw from the job position, which users might find helpful if they want to make any changes. Updates on the application process would be very helpful as the number of them is not shown. In addition to these major and minor points, more is discussed in the following table. 
+
+[Severity Ratings in Heuristic Evaluation: Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
+
+[10 Heuristics for User Interface Design: Nielson Normal Group](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 [>> Read more about Heuristic Evaluation on Assignment 01](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2001)
 
@@ -28,7 +32,8 @@ With these usability issues, I performed a usability test to find the factors th
 [>> Read more about the Usability Testing on Assignment 02](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2002) 
 
 ### User research [contextual inquiry]
-To get a better idea of creating a platform tailored to user's needs, I conducted an interview and participatory observation research with a friend who is part of the targeted demographic. The purpose of this user research is to ###################
+To get a better idea of creating a platform tailored to user's needs, I conducted an interview and participatory observation research with a friend who is part of the targeted demographic. The purpose of this user research is to get a better idea of the potential user demographic, their perspective and thoughts on the existing platforms and new idea. 
+Here is the video of the interview with the participant. 
 
 <iframe src="https://drive.google.com/file/d/1fOssZoGpLwAStUdFeNEblGfDfpbNXsKm/preview" width="640" height="480"></iframe>
 
