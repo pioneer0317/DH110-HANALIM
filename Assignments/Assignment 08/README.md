@@ -19,10 +19,10 @@ As the first step of the UX journey, I evaluated two of the competitor websites.
 <table>
 <tr>
   <td>
-    <img height = "300px" width = "400px" scr = "/linkedin-logo-copy.png"> 
+    <img height = "200px" width = "200px" src = "linkedin-logo-copy.png"> 
   </td>
   <td>
-    <img height = "300px" width = "400px" scr = "/fblogo.jpg"> 
+    <img height = "200px" width = "200px" src = "fblogo.jpg"> 
   </td>
   </tr>
 </table>
@@ -64,15 +64,15 @@ This is an example of Theodore's persona:
 <table>
 <tr>
   <td>
-    <img height = "300px" width = "400px" scr = "Theodore%20Profile.PNG")> 
+    <img height = "300px" width = "400px" src = "Theodore%20Profile.PNG")> 
   </td>
  
   <td>
-    <img height = "300px" width = "400px" scr = ![2](Theodore%20EM.PNG)> 
+    <img height = "300px" width = "400px" src = "Theodore%20EM.PNG"> 
   </td>
   
   <td>
-    <img height = "300px" width = "400px" scr = ![3](Theodore%20JM.PNG)> 
+    <img height = "300px" width = "400px" src = "Theodore%20JM.PNG"> 
   </td>
   </tr>
 </table>
@@ -135,7 +135,10 @@ Initially I used the olive and yellow color theme, but after conducting an impre
 ![](wireflow.PNG)
 
 **High-fidelity prototype** 
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fn8RUJGab3htLzlLEhvTA3x%2FPrototype%3Fnode-id%3D75%253A0%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
+
+
 
 [>> Read more on Assignment 06](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2006)
 
@@ -156,13 +159,3 @@ What I noticed from the participant (elder woman) is that her response time was 
 ### Conclusion
 This was my first time learning about the full process of user experience design. Each process of the user experience design was very thorough and in-depth. Because of this experience, I was able to understand how the user research and low-fidelity prototyping is as important as the aesthetic part of the design. From the competitor analysis, it was a time that I evaluated the very familiar and well-known competitor websites. This allowed me to rethink and analyze about the problem and inconveniency of the existing solution. During the usability testing and an interview, I was able to listen to different person's thought process and approach on the same issue. Then, I created three personas based on the insights I've gathered from the participants. User personas allowed me to organize my thought on how I would proceed with the product design. By letting the tester to perform some tasks on my low fidelity prototype, I learned how the different generations perceive things differently, which gave me a significant effect on my thought on the design interface. Lastly, I got a lot of good feedbacks from different participants from the high-fidelity prototype so I had a lot of room to make an improvement with my design. I learned that endless thoughts, care, and tests from the participants are required to make a good product.
 
-
-<table>
-<tr>
-  <td><img height = "300px" width = "300px" scr = "link"> </td>
- 
-  <td>
-![LinkedIn Website Screenshot](../Assignment 01/linkedin_screenshot.PNG)
-  </td>
-  </tr>
-</table>
