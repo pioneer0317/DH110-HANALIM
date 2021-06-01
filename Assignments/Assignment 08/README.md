@@ -85,19 +85,9 @@ This is an example of Theodore's persona:
 [>> Read the rest of the personas on Assignment 04](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2004)
 
 ### Wireframe and graphic design element variation
-Getting into a design perspective of the project, I decided to use green as the main theme since the color blue was already used by LinkedIn platform. Initially, I chose to work with this color theme, but after going through an impression test with couple people, I decided to pivot my decision to the color theme on the right. 
+Getting into a design perspective of the project, I decided to use green as the main theme since the color blue was already used by LinkedIn platform. Initially, I chose to work with the third color theme, but after going through an impression test with couple people, I decided to pivot my decision to the first color scheme. 
 
-<table>
-<tr>
-  <td>
-    <img height = "500px" width = "300px" src = "3.PNG"> 
-  </td>
- 
-  <td>
-    <img height = "500px" width = "300px" src = "1.PNG"> 
-  </td>
-  </tr>
-</table>
+![](variations.PNG) 
 
 All of the variation passed the color-contrast ratio. 
 
