@@ -64,15 +64,20 @@ This is an example of Theodore's persona:
 <table>
 <tr>
   <td>
-    <img height = "300px" width = "400px" src = "Theodore%20Profile.PNG")> 
+    <img height = "400px" width = "500px" src = "Theodore%20profile.png")> 
   </td>
- 
   <td>
-    <img height = "300px" width = "400px" src = "Theodore%20EM.PNG"> 
+    <img height = "400px" width = "400px" src = "Theodore%20EM.png"> 
   </td>
+  </tr>
+</table>
+
+ <table>
+<tr>
+  
   
   <td>
-    <img height = "300px" width = "400px" src = "Theodore%20JM.PNG"> 
+    <img height = "300px" width = "700px" src = "Theodore%20JM.png"> 
   </td>
   </tr>
 </table>
@@ -85,11 +90,11 @@ Getting into a design perspective of the project, I decided to use green as the 
 <table>
 <tr>
   <td>
-    <img height = "500px" width = "300px" scr = 3.PNG> 
+    <img height = "500px" width = "300px" src = "3.PNG"> 
   </td>
  
   <td>
-    <img height = "500px" width = "300px" scr = 1.PNG> 
+    <img height = "500px" width = "300px" src = "1.PNG"> 
   </td>
   </tr>
 </table>
