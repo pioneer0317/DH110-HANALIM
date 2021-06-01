@@ -16,17 +16,22 @@ These are the three design features I have based on the user research:
 ### Competitor analysis: Heuristic Evaluation on LinkedIn and Facebook 
 As the first step of the UX journey, I evaluated two of the competitor websites. I used the [Severity Ratings in Heuristic Evaluation: Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) and [10 Heuristics for User Interface Design: Nielson Normal Group](https://www.nngroup.com/articles/ten-usability-heuristics/) as the evaluation method. Similar to my topic and interest, I decided to make a further observation on **LinkedIn** and **Facebook** websites. The common theme of these two websites are networking, and LinkedIn is one of the most popular job boards. 
 
-https://www.linkedin.com/
+<table>
+<tr>
+  <td>
+    <img height = "300px" width = "400px" scr = "/linkedin-logo-copy.png"> 
+  </td>
+  <td>
+    <img height = "300px" width = "400px" scr = "/fblogo.jpg"> 
+  </td>
+  </tr>
+</table>
 
-LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the platform is mainly used for professional networking and allows job seekers to post their CVs and employers to post jobs.
-
-![LinkedIn Website Screenshot]()
+**LinkedIn** is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the platform is mainly used for professional networking and allows job seekers to post their CVs and employers to post jobs.
 
 Overall Evaluation: Besides some of the strengths with the user experience components, The most critical problem with LinkedIn is the amount of error occurring more than half of the time when using the product. This bug needs to be fixed as soon as possible because no content nor a bad connection is the cause of the error. Another minor issue would be the inflexibility of withdrawing/undoing submitted applications. Some other competitive websites do have options to withdraw from the job position, which users might find helpful if they want to make any changes. Updates on the application process would be very helpful as the number of them is not shown. In addition to these major and minor points, more is discussed in the following table. 
   
-Similar to one of LinkedIn's networking features, Facebook is one of the most popular global social networking services that operates via websites and mobile apps. The platform is mainly used for entertainment/socializing purposes and allows users to connect with friends through chat, groups, events, posts, and tag features. The users can also get entertained through various games and videos. With the recently added feature, users can also actively buy or sell the products through the Facebook marketplace.
-
-![FaceBook sc]()
+Similar to one of LinkedIn's networking features, **Facebook** is one of the most popular global social networking services that operates via websites and mobile apps. The platform is mainly used for entertainment/socializing purposes and allows users to connect with friends through chat, groups, events, posts, and tag features. The users can also get entertained through various games and videos. With the recently added feature, users can also actively buy or sell the products through the Facebook marketplace.
 
 Overall Evaluation: Some of the problems with Facebook's usability design are repetition, consistency, and recognition. Some tabs exist in several places from multiple navigation bars that end up navigating to the same page. (ex: "group" can be found on the left navigation bar, top navigation bar, and a plus dropdown menu on the top right corner.) Facebook needs to work on improving recommendation metrics. Facebook doesn't have a tags list that the users can choose to read or watch about a certain topic. For example, what I noticed is that whenever my friend tags me on a video, Facebook keeps recommending me similar types of videos that I am not interested to see. Although there is an option to stop suggesting this type of video, it somehow keeps popping up in my newsfeed as a suggested video. More is discussed in the following table.
 
@@ -59,15 +64,15 @@ This is an example of Theodore's persona:
 <table>
 <tr>
   <td>
-    <img height = "300px" width = "400px" scr = ![1](../Assignment 04/Theodore Profile.PNG)> 
+    <img height = "300px" width = "400px" scr = "Theodore%20Profile.PNG")> 
   </td>
  
   <td>
-    <img height = "300px" width = "400px" scr = ![2](../Assignment 04/Theodore EM.PNG)> 
+    <img height = "300px" width = "400px" scr = ![2](Theodore%20EM.PNG)> 
   </td>
   
   <td>
-    <img height = "300px" width = "400px" scr = ![3](../Assignment 04/Theodore JM.PNG)> 
+    <img height = "300px" width = "400px" scr = ![3](Theodore%20JM.PNG)> 
   </td>
   </tr>
 </table>
@@ -80,11 +85,11 @@ Getting into a design perspective of the project, I decided to use green as the 
 <table>
 <tr>
   <td>
-    <img height = "500px" width = "300px" scr = ![1](../Assignment 06/3.PNG)> 
+    <img height = "500px" width = "300px" scr = 3.PNG> 
   </td>
  
   <td>
-    <img height = "500px" width = "300px" scr = ![2](../Assignment 06/1.PNG)> 
+    <img height = "500px" width = "300px" scr = 1.PNG> 
   </td>
   </tr>
 </table>
@@ -135,14 +140,21 @@ Initially I used the olive and yellow color theme, but after conducting an impre
 [>> Read more on Assignment 06](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2006)
 
 ### Evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+#### Impression Test
+After talking to various people about my initial high-fidelity prototype, the most important thing I learned is that just because the colors I chose passed the assessibility check doesn't mean that it could be aesthetically pleasing, and this is how I decided to use a teal color theme. I also applied some changes on the wireframe based on the participants' suggestions on design. 
+
+#### Cognitive Walkthrough 
+My classmates suggested several points: For the selected filter, the fonts could be in bold to be distinguished; have different logos for apply, saved, and job tracker; fix the navigation tab to stay still 
+
+What I noticed from the participant (elder woman) is that her response time was much longer than I expected, and it took longer for her to search the certain keywords. Based on this, what I can do differently next time is to think of a better design that could increase the reaction rate for older people. I also learned that I would need to create the "back" button for every page for certain people, especially the older age groups. Although I have the "back" button on the search result and the job description pages, I noticed that my tester wanted to go back and seemed to be hesitant to go back to the previous page. From my perspective, I thought having the bar menu on the button would be enough, but that was not the case for my tester and her age group. In the future, I will consider making adjustments to creating the back button on every page. Lastly, In terms of the switches, I can add a guide on how the switch work in the textbox.
+
+[Read full evaluation and revision history in assignment 06](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2006)
 
 ### Pitch video 
 
 
 ### Conclusion
-
-
+This was my first time learning about the full process of user experience design. 
 
 
 <table>
