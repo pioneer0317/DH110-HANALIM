@@ -147,7 +147,7 @@ What I noticed from the participant (elder woman) is that her response time was 
 [Read full evaluation and revision history in assignment 06](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2006)
 
 ### Pitch video 
-
+<iframe src="https://drive.google.com/file/d/1m1ePrFIbS1aWsNEUC49Rfj58rW6GHN7z/view?usp=sharing" width="640" height="480"></iframe>
 
 ### Conclusion
 This was my first time learning about the full process of user experience design. Each process of the user experience design was very thorough and in-depth. Because of this experience, I was able to understand how the user research and low-fidelity prototyping is as important as the aesthetic part of the design. From the competitor analysis, it was a time that I evaluated the very familiar and well-known competitor websites. This allowed me to rethink and analyze about the problem and inconveniency of the existing solution. During the usability testing and an interview, I was able to listen to different person's thought process and approach on the same issue. Then, I created three personas based on the insights I've gathered from the participants. User personas allowed me to organize my thought on how I would proceed with the product design. By letting the tester to perform some tasks on my low fidelity prototype, I learned how the different generations perceive things differently, which gave me a significant effect on my thought on the design interface. Lastly, I got a lot of good feedbacks from different participants from the high-fidelity prototype so I had a lot of room to make an improvement with my design. I learned that endless thoughts, care, and tests from the participants are required to make a good product.
