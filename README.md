@@ -61,26 +61,9 @@ After conducting a usability test, user research, and competitor analysis, I cre
 
 This is an example of Theodore's persona: 
 
-<table>
-<tr>
-  <td>
-    <img height = "400px" width = "500px" src = "Theodore%20profile.png"> 
-  </td>
-  <td>
-    <img height = "400px" width = "400px" src = "Theodore%20EM.png"> 
-  </td>
-  </tr>
-</table>
-
- <table>
-<tr>
-  
-  
-  <td>
-    <img height = "300px" width = "700px" src = "Theodore%20JM.png"> 
-  </td>
-  </tr>
-</table>
+![](Theodore%20profile.png)
+![](Theodore%20EM.png)
+![](Theodore%20JM.png)
 
 [>> Read the rest of the personas on Assignment 04](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2004)
 
