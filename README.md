@@ -44,7 +44,7 @@ With these usability issues, I performed a usability test to find the factors th
 
 After conducting a usability testing, there are several points I learned from the participant. Based on the participant's reaction, the biggest problem with the website is that it is unnecessarily complex, very cumbersome, there are too much inconsistencies, and not as easy to use as a social media platform. Although she said it is easy to use the platform now since she got used to it, she expressed that it might be hard for new users to learn how to use this website very quickly. The five words that the participant chose are boring, busy, familiar, old, and professional.
 
-<iframe src="https://drive.google.com/file/d/1fOssZoGpLwAStUdFeNEblGfDfpbNXsKm/preview" width="640" height="480"></iframe>
+The usabiliy test recording can be found [here](https://drive.google.com/file/d/1fOssZoGpLwAStUdFeNEblGfDfpbNXsKm/view?usp=sharing)
 
 [>> Read more about the Usability Testing on Assignment 02](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2002) 
 
@@ -53,6 +53,8 @@ To get a better idea of creating a platform tailored to user's needs, I conducte
 Here is the video of the interview with the participant. 
 
 It was a great opportunity to observe the same questions from other person's perspective. I realized even the basic questions we saw them through different lenses. During the interview, my interviewee suggested a brilliant idea about the filter features from the job boards. His suggestion was to have a "student-friendly" option, which will allow students to not waste time on seeing the jobs with "weekday or overnight" descriptions. The interviewee also claimed that the current students seeking internships, recent grads, and any job seekers seeking full-time opportunities would find the idea of having a "job tracking" system extremely helpful. In this way, they wouldn't have to manually put down the information of the companies they've applied to. He also mentioned that it would be more approachable to him to be more active in applying if he knew there was such a system. 
+
+The recording of the interview can be found [here](https://drive.google.com/file/d/1QcRcb32k_MZJPRig5qN9PeuScWuUFTdi/view?usp=sharing)
 
 [>> Read more on Assignment 03](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2003)
 
