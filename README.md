@@ -2,10 +2,10 @@
 ## DH 110 project by Hana Yerin Lim
 
 ### Introduction
-The goal of this project is to design a product that fulfills the users' efficiency with job hunting as they can be overwhelmed and be confused with loads of job applications and repeating information on different types of job board websites, and with job tracker as manually inputing the companies on google sheet could be burdensome. This project also aims to create a simple interface so that all the age groups, including the older generation, can use the product without much assistant and find the app easy to use. This project aims to organize and save the users time to be more productive and effective with their job application process. The goal of this project is to create a system that automatically organizes, manages, and keep track of the companies record. With some possible improvements on some of the issues, this new app/platform can satisfy the user's needs.
+The goal of this project is to design a product that fulfills the users' efficiency with job hunting and job tracking. Job hunting can be overwhelming and confusing when there are loads of job applications and repeating information on different job board websites. Manually tracking and inputting the companies on google sheets could be burdensome. This project also aims to create a simple interface so that all the age groups, including the older generation, can use the product without many assistants and find the app easy to use. This product will automatically organize, manage, and record the company information. With some possible improvements on some of the issues, this new app/platform can satisfy the user's needs.
 
 ### Design statement
-Most of the job seekers are tired of searching for available job positions out there and they probably have spent countless of time searching and filtering new opportunities. For this UX design project, I hope to provide an easy and simple interface for everyone to be able to use it without much guidance and for them to save a ton of time by making this product as a hub of so many online job boards with the automated job tracking feature.  
+Most of the job seekers are tired of searching for available job positions out there and they probably have spent countless of time searching and filtering new opportunities. For this UX design project, I hope to provide an easy and simple interface for everyone to be able to use it without much guidance and save a ton of time by making this product as a hub of so many online job boards with the automated job tracking feature.  
 
 These are the three design features I have based on the user research: 
 
@@ -44,13 +44,13 @@ With these usability issues, I performed a usability test to find the factors th
 
 After conducting a usability testing, there are several points I learned from the participant. Based on the participant's reaction, the biggest problem with the website is that it is unnecessarily complex, very cumbersome, there are too much inconsistencies, and not as easy to use as a social media platform. Although she said it is easy to use the platform now since she got used to it, she expressed that it might be hard for new users to learn how to use this website very quickly. The five words that the participant chose are boring, busy, familiar, old, and professional.
 
+<iframe src="https://drive.google.com/file/d/1fOssZoGpLwAStUdFeNEblGfDfpbNXsKm/preview" width="640" height="480"></iframe>
+
 [>> Read more about the Usability Testing on Assignment 02](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2002) 
 
 ### User research [contextual inquiry]
 To get a better idea of creating a platform tailored to user's needs, I conducted an interview and participatory observation research with a friend who is part of the targeted demographic. The purpose of this user research is to get a better idea of the potential user demographic, their perspective and thoughts on the existing platforms and new idea. 
 Here is the video of the interview with the participant. 
-
-<iframe src="https://drive.google.com/file/d/1fOssZoGpLwAStUdFeNEblGfDfpbNXsKm/preview" width="640" height="480"></iframe>
 
 It was a great opportunity to observe the same questions from other person's perspective. I realized even the basic questions we saw them through different lenses. During the interview, my interviewee suggested a brilliant idea about the filter features from the job boards. His suggestion was to have a "student-friendly" option, which will allow students to not waste time on seeing the jobs with "weekday or overnight" descriptions. The interviewee also claimed that the current students seeking internships, recent grads, and any job seekers seeking full-time opportunities would find the idea of having a "job tracking" system extremely helpful. In this way, they wouldn't have to manually put down the information of the companies they've applied to. He also mentioned that it would be more approachable to him to be more active in applying if he knew there was such a system. 
 
@@ -132,8 +132,6 @@ Initially I used the olive and yellow color theme, but after conducting an impre
 **High-fidelity prototype** 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fn8RUJGab3htLzlLEhvTA3x%2FPrototype%3Fnode-id%3D75%253A0%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
-
-
 
 [>> Read more on Assignment 06](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2006)
 
