@@ -70,7 +70,7 @@ This is an example of Theodore's persona:
 [>> Read the rest of the personas on Assignment 04](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2004)
 
 ### Wireframe and graphic design element variation
-Getting into a design perspective of the project, I decided to use green as the main theme since the color blue was already used by LinkedIn platform. Initially, I chose to work with the third color theme, but after going through an impression test with couple people, I decided to pivot my decision to the first color scheme. 
+Getting into a design perspective of the project, I decided to use green as the main theme since the color blue was already used by LinkedIn platform. I also wanted the users to feel less stressed as they already are. Initially, I chose to work with the third color theme, but after going through an impression test with couple people, I decided to pivot my decision to the first color scheme. 
 
 ![](variations.PNG) 
 
