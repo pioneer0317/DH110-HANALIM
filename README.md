@@ -130,7 +130,7 @@ What I noticed from the participant (elder woman) is that her response time was 
 [Read full evaluation and revision history in assignment 06](https://github.com/pioneer0317/DH110-HANALIM/tree/main/Assignments/Assignment%2006)
 
 ### Pitch video 
-<iframe src="https://drive.google.com/file/d/1m1ePrFIbS1aWsNEUC49Rfj58rW6GHN7z/view?usp=sharing"></iframe>
+<iframe src="https://drive.google.com/file/d/1m1ePrFIbS1aWsNEUC49Rfj58rW6GHN7z/view?usp=sharing" width="640" height="480"></iframe>
 
 [Pitch video can be found here](https://drive.google.com/file/d/1m1ePrFIbS1aWsNEUC49Rfj58rW6GHN7z/view?usp=sharing) 
 
