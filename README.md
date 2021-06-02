@@ -64,7 +64,7 @@ This is an example of Theodore's persona:
 <table>
 <tr>
   <td>
-    <img height = "400px" width = "500px" src = "Theodore%20profile.png")> 
+    <img height = "400px" width = "500px" src = "Theodore%20profile.png"> 
   </td>
   <td>
     <img height = "400px" width = "400px" src = "Theodore%20EM.png"> 
